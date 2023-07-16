@@ -2,6 +2,8 @@
 Welcome to the Github page of HUAT-FSAC Team!
 
 湖北汽车工业学院东风 HUAT 无人驾驶方程式赛车队是一个展示和证明队员的创造力和工程技术水平的实践平台。车队以赛车为对象，以汽车新能源、汽车智能化为方向，旨在培养与未来汽车产业紧密相连的高级应用型汽车人才。
+***
+Dongfeng HUAT Formula Student Racing Team from Hubei University of Automotive Technology is a practical platform for members to demonstrate creativity and engineering skills. With racing cars as the object, new energy and intelligent vehicles as the direction, the team aims to cultivate advanced application-oriented automotive talents closely connected with the future auto industry.
 
 <!--
 
